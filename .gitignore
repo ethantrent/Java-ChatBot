@@ -1,0 +1,21 @@
+# Compiled Java classes
+*.class
+
+# Build output directory
+out/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (can be regenerated)
+chatbot_data.txt
+chat_history.txt
+
