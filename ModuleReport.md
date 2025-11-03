@@ -5,7 +5,10 @@
 |Ethan Trent |11/01/25 | Bro McGary |
 
 ### Project Repository Link
-Copy the link to your [Github Repository](<!-- Insert Link Here -->) *(Note: Update this with your actual GitHub repository link)*
+[GitHub Repository](https://github.com/ethantrent/Java-ChatBot)
+
+### Video Demonstration
+[Watch the demonstration video](<https://www.loom.com/share/a13376cfd6e049c3b8882f4050cb6c44)
 
 ### Module
 Mark an **X** next to the module you completed

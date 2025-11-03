@@ -4,6 +4,10 @@
 
 An interactive chatbot application in Java that demonstrates core programming concepts including variables, conditionals, loops, functions, classes, and the Java Collection Framework (HashMap, ArrayList, TreeSet).
 
+## Video Demo
+
+[Watch the demonstration video](https://www.loom.com/share/a13376cfd6e049c3b8882f4050cb6c44) *(4-5 minute demo showing software features and code walkthrough)*
+
 ## Features
 
 - **Conversational Interaction**: Responds to user questions using a knowledge base stored in a HashMap
